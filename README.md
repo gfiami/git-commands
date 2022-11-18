@@ -26,6 +26,7 @@ obs: to be more specific use 'git push origin main' when dealing with multiples 
 Commands used
 
 git clone 'SSH from Github'
+
 git status
 
 git add 'file'
