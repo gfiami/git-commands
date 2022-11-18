@@ -1,4 +1,6 @@
 Testing commits with VS CODE
 Command:
 after a commit withou -m: git commit
-use: git config --global core.editor "code --wait"
+vs code will open a new tab
+and we should enter our message there and just save and close.
+after = git push and DONE!
