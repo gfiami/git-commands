@@ -20,7 +20,7 @@ if use git add . = stage all files
 
 7: 'git log' shows a lot of commit related information, such as file, user, message, etc
 
-8: finnaly, to upload to github, use git push, and all commited stuff will be uploaded!
+8: finally, to upload to github, use git push, and all commited stuff will be uploaded!
 obs: to be more specific use 'git push origin main' when dealing with multiples branches
 Commands used
 git clone 'SSH from Github'
