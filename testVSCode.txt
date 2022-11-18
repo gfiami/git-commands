@@ -1,0 +1,4 @@
+Testing commits with VS CODE
+Command:
+after a commit withou -m: git commit
+use: git config --global core.editor "code --wait"
